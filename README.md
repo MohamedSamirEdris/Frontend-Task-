@@ -1,4 +1,4 @@
-# Frontend-Task-
+# Frontend-Task
 This is a boilerplate application to render a Product list using api integration in React. It was built as a project task.
 
 
